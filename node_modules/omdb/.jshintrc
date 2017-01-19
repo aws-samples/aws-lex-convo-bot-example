@@ -1,0 +1,17 @@
+{
+    "camelcase": true,
+    "curly": true,
+    "eqeqeq": true,
+    "freeze": true,
+    "indent": 4,
+    "latedef": true,
+    "noempty": true,
+    "quotmark": "single",
+    "undef": true,
+    "unused": true,
+    "trailing": true,
+    "maxlen": 80,
+    "node": true,
+    "onevar": true,
+    "white": true
+}
