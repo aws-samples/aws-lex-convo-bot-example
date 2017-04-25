@@ -29,7 +29,7 @@ Instructions:
 
 Zip the code that you downloaded. Note compress the files together not
 the folder. Now, go to AWS Lambda console. Create a new lambda function.
-Select "Blank Fuction" as a blueprint. in "Configure triggers" section
+Select "Blank Function" as a blueprint. in "Configure triggers" section
 press next. Now configure your lambda function.
 
 ##### Configure Function: 
