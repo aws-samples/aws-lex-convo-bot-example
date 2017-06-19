@@ -8,12 +8,8 @@ MoviePedia
 Moviepedia ChatBot 
 ==================
 
-Moviepedia Bot is a chat bot that helps you query information about a
-movie of your choice. We will be using AWS Lambda, which supports either
-of Node (0.10 or 4.3), Python (2.7), or Java (8) runtimes. This bot has
-been written in NodeJS and utilizes.
-[OMDB](https://github.com/misterhat/omdb) for quering movies and
-returing desired information.
+Moviepedia ChatBot
+Moviepedia Bot is a chat bot that helps you query information about a movie of your choice. We will be using AWS Lambda, which supports either of Node (0.10 or 4.3), Python (2.7), or Java (8) runtimes. This bot has been written in NodeJS and utilizes. TMDB for quering movies and returing desired information.
 
 Steps to build the Moviepedia Bot 
 ---------------------------------
@@ -22,7 +18,7 @@ Step 1: Create the AWS Lambda function
 --------------------------------------
 
 Use this end point to upload the lambda code from s3:
-https://s3-us-west-2.amazonaws.com/re-invent-botworkshop/samples/moviePedia/moviePedia.zip
+https://s3-us-west-2.amazonaws.com/re-invent-botworkshop/samples/moviePedia/Archive.zip
 
 Instructions: 
 -------------
