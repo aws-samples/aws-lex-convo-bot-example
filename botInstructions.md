@@ -12,7 +12,7 @@ Moviepedia Bot is a chat bot that helps you query information about a
 movie of your choice. We will be using AWS Lambda, which supports either
 of Node (0.10 or 4.3), Python (2.7), or Java (8) runtimes. This bot has
 been written in NodeJS and utilizes.
-[TMDB] (https://www.themoviedb.org/?language=en) for quering movies and
+[TMDB](https://www.themoviedb.org/?language=en) for quering movies and
 returing desired information.
 
 Steps to build the Moviepedia Bot 
