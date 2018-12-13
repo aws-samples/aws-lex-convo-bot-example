@@ -16,7 +16,7 @@ const tmdb = require('tmdbv3').init('35440259b50e646a6485055c83367ccd');
     // --------------- Events -----------------------
      
     function dispatch(intentRequest, callback) {
-        console.log('request received for userId=${intentRequest.userId}, intentName=${intentRequest.currentIntent.intentName}');
+        console.log(`request received for userId=${intentRequest.userId}, intentName=${intentRequest.currentIntent.intentName}`);
         const sessionAttributes = intentRequest.sessionAttributes;
         const slots = intentRequest.currentIntent.slots;
         var moviename = slots.name;
